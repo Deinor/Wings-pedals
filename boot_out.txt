@@ -1,0 +1,5 @@
+Adafruit CircuitPython 9.0.5 on 2024-05-22; Raspberry Pi Pico with rp2040
+Board ID:raspberry_pi_pico
+UID:E661410403833F30
+[2K[0Gboot.py output:
++ Enabled JoystickXL 0.4.3 with 3 axes, 0 buttons and 0 hats for a total of 3 report bytes.
